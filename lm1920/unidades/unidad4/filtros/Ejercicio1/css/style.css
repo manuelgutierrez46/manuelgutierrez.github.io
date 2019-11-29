@@ -1,0 +1,62 @@
+html {
+    background-color: lightgray;
+}
+
+p {
+    font-weight: bold;
+    background-color: red;
+    width: 60px;
+}
+
+ul {
+    background-color: lightblue;
+    width: 80px;
+}
+
+#fil1 {
+    display: block;
+    width: 300px;
+    -webkit-filter: graysccale(1);
+    /*Completa resto de prefijos*/
+    filter: grayscale(1);
+    animation: myAnimation1 3s infinite alternate;
+}
+
+#fil2 {
+    display: block;
+    width: 300px;
+    -webkit-filter: invert(1);
+    /*Completa resto de prefijos*/
+    filter: invert(1);
+    animation: myAnimation2 1.5s infinite alternate;
+}
+
+#fil3 {
+    display: block;
+    width: 300px;
+    -webkit-filter: contrast(10);
+    /*Completa resto de prefijos*/
+    filter: contrast(10);
+    animation: myAnimation3 1s infinite alternate;
+}
+
+img {
+    
+}
+
+@keyframes myAnimation1 {
+    100% {
+        transform: translateX(1000px) rotate(900deg) translateY(500px) skewX(220deg) translateZ(500px);
+    }
+}
+@keyframes myAnimation2 {
+    100% {
+        transform: rotate3d(1, 2.0, 3.0, 800deg);
+    }
+}
+
+@keyframes myAnimation3 {
+    100% {
+        transform: matrix(1.0, 2.0, 3.0, 4.0, 5.0, 6.0);
+    }
+}
