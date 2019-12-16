@@ -1,0 +1,46 @@
+//Cuestionario Gift 
+//Realizado por Manuel Gutierrez Guijarro
+
+//Pregunta 1
+¿Cuales de estos son navegadores WEB? {
+   ~%-100%OpenOffice
+   ~%50%Google Chrome
+   ~%50%Microsoft Egde
+   ~%-100%Farfoz
+}
+
+
+//Pregunta 2
+Selecciona cuales de estos son lenguajes de marcas {
+   ~%50%XML
+   ~%-100%MML
+   ~%50%HTML
+   ~%-100%SRML
+}
+
+//Pregunta 3
+Selecciona las opciones correctas sobre HTML5: {
+   ~%-100%Ninguna de las opciones es correcta
+   ~%-100%Tiene reglas más simples para definir la estructura de un documento 
+   ~%50%Es el estándar vigente a día de hoy
+   ~%50%Desarrollado por el WHATWG, adoptado por el W3C
+}
+
+//Pregunta 4
+Selecciona las opciones correctas sobre XHTML: {
+   ~%-100%No es compatible con el navegador Chrome
+   ~%50%Mayor extensibilidad
+   ~%50%XHTML separa claramente contenido y presentación
+   ~%-100%Ninguna de las anteriores es correcta
+}
+
+//Pregunta 5
+Selecciona las opciones correctas sobre XHTML: {
+   ~%50%Definido por W3C
+   ~%-100%Es muy inestable
+   ~%-100%No es compatible con el navegador Opera
+   ~%50%Los objetos de un documento se organizan en una jerarquía (árbol)
+}
+
+
+
