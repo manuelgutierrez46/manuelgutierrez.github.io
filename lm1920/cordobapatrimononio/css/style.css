@@ -1,0 +1,36 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline-block;
+  border: 1px solid;
+  padding: 6px;
+  background-color: lightcoral;
+}
+
+a {
+  color: red;
+  text-decoration: none;
+}
+
+nav {
+  text-align: center;
+}
+
+body {
+background-color: lightgrey;
+}
+
+p {
+font-family: sans-serif;
+}
+
+p a {
+  display: inline-block;
+  border: 1px solid;
+  padding: 6px;
+  background-color: midnightblue;
+}
