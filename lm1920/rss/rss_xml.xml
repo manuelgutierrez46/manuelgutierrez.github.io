@@ -1,0 +1,11 @@
+﻿<rss version="2.0">
+  <channel>
+    <title>Manuel Gutiérrez Guijarro - Prácticas XML</title>  
+    <link>https://manuelgutierrez46.github.io</link>
+    <description>Prácticas XML - LM</description>
+  <item>
+    <title>Córdoba Patrimonio</title>  
+    <link>https://manuelgutierrez46.github.io/lm1920/cordoba_patrimonio/index.html</link>
+  </item>
+  </channel>
+</rss>
